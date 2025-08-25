@@ -28,7 +28,7 @@ public class Conexion {
     private static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     private static final String DB_URL = "jdbc:mysql://localhost:3306/abarrotes";
     private static final String USER = "root";
-    private static final String PASS = "12345";
+    private static final String PASS = "";
 
     // Constructor privado para evitar que se instancie desde fuera
     private Conexion() {
